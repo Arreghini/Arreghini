@@ -1,5 +1,4 @@
-
-# 👋 ¡Hola, soy Mauricio Arreghini!
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2> ¡Hola, soy Mauricio Arreghini!
 
 Soy un desarrollador full-stack apasionado por crear soluciones eficientes y de alto impacto. Me gusta aprender nuevas tecnologías, explorar diferentes herramientas y mejorar continuamente mis habilidades de programación.
 
