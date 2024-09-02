@@ -26,7 +26,7 @@ Con un background como **investigador científico** y experiencia en **gestión 
   
 ### 🌱 **Actualmente Estoy Aprendiendo**
 
-- 🤖 **Uso de la IA para Programadores:** Implementando soluciones con Python y TensorFlow.
+- 🤖 **Uso de la IA para Programadores:** Implementando soluciones con Python.
 - 🧪 **Pruebas Unitarias y de Integración:** Con Jest y React Testing Library, enfocándome en garantizar la calidad del código.
 - 🚢 **DevOps y Despliegue Continuo:** Utilizando Docker y GitHub Actions para integrar CI/CD en proyectos reales.
 
